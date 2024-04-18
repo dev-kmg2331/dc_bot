@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dc_bot
+
+#token:
+#  discord-bot-token:
